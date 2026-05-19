@@ -16,3 +16,5 @@ print(my_list[i][1])
 #  printing kiwi
 i=5
 print(my_list[i])
+i=2
+print(my_list[i][0])
