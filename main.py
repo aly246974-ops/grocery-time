@@ -22,5 +22,3 @@ for i in range(13):
 #  print last item of list
 i=12
 print(names[i])
-i=-1
-print(names[i])
